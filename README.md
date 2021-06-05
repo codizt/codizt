@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dev
 - 👨‍🎓 I'm currently a CS undergrad at Amrita Scool of Engineering
 - 👀 I’m interested in React and Django
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working on [QuizHub frontend](https://github.com/codizt/QuizHub-Frontend)
 - 📫 Reach me at thecodizt@gmail.com
 
 <!---
