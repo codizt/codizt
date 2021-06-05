@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @codizt
-- 👀 I’m interested in Full-Stack Dev
-- 🌱 I’m currently learning Hugo
-- 💞️ I’m looking to collaborate on React and Django Projects
+- 👋 Hi, I’m Dev
+- 👨‍🎓 I'm currently a CS undergrad at Amrita Scool of Engineering
+- 👀 I’m interested in React and Django
+- 🌱 I’m currently learning React
 - 📫 Reach me at thecodizt@gmail.com
 
 <!---
