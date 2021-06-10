@@ -5,7 +5,11 @@
 - 📫 Reach me at thecodizt@gmail.com
 
 [![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=codizt&theme=radical&show_icons=true)](https://github.com/codizt)
-[![Dev's TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codizt&theme=radical)](https://github.com/codizt)
+
+[![Dev's TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codizt&theme=radical&layout=compact)](https://github.com/codizt)
+
+[![Dev's github streak](https://github-readme-streak-stats.herokuapp.com/?user=codizt&theme=radical)](https://github.com/codizt)
+
 
 <!---
 codizt/codizt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
