@@ -4,6 +4,9 @@
 - 🌱 I’m currently working on [QuizHub frontend](https://github.com/codizt/QuizHub-Frontend)
 - 📫 Reach me at thecodizt@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codizt)](https://git.io/streak-stats)
 
 <!---
