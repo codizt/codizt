@@ -3,10 +3,8 @@
 - 👀 I’m interested in React and Django
 - 🌱 I’m currently working on [QuizHub frontend](https://github.com/codizt/QuizHub-Frontend)
 - 📫 Reach me at thecodizt@gmail.com
-
-https://github-readme-stats.vercel.app/api?username=codizt
-https://github-readme-stats.vercel.app/api/top-langs/?username=codizt&layout=compact
-https://github-readme-streak-stats.herokuapp.com/?user=codizt
+- 
+[![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=codizt)](https://github.com/codizt)
 
 <!---
 codizt/codizt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
