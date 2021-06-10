@@ -4,10 +4,9 @@
 - 🌱 I’m currently working on [QuizHub frontend](https://github.com/codizt/QuizHub-Frontend)
 - 📫 Reach me at thecodizt@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codizt)](https://git.io/streak-stats)
+https://github-readme-stats.vercel.app/api?username=codizt
+https://github-readme-stats.vercel.app/api/top-langs/?username=codizt&layout=compact
+https://github-readme-streak-stats.herokuapp.com/?user=codizt
 
 <!---
 codizt/codizt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
