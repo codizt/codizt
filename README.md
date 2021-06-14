@@ -16,7 +16,7 @@ var status =
   intrests = ['Reading', 'Chess', 'Competitve Programming', 'Netflix and Chill']
 }
 
-const currentlyWorking = "React Series"
+const currentlyWorking = "ReactTraining Series"
 
 const competitiveProgRepo = "CP"
 
