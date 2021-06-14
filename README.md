@@ -16,6 +16,10 @@ var status =
   intrests = ['Reading', 'Chess', 'Competitve Programming', 'Netflix and Chill']
 }
 
+const currentlyWorking = "React Series"
+
+const competitiveProgRepo = "CP"
+
 const ide = ['VScode', 'DEV C++'];
 
 Developer dev = new Developer(codizt);
