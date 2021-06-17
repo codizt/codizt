@@ -13,7 +13,7 @@ document.write("Hello World");
 var status = 
 { 
   learning : [React,React Native],
-  intrests = ['Reading', 'Chess', 'Competitve Programming', 'Netflix and Chill']
+  intrests = ['Competitve Programming', 'Data Science', 'Reading', 'Chess',  'Netflix and Chill']
 }
 
 const currentlyWorking = "ReactTraining Series"
