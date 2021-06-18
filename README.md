@@ -18,7 +18,8 @@ var status =
 
 const currentlyWorking = "ReactTraining Series"
 
-const competitiveProgRepo = "CP"
+const competitive_programming = repo.startswith("CP-")
+const data_science = repo.startswith("DS-")
 
 const ide = ['VScode', 'DEV C++'];
 
