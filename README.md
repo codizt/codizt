@@ -12,11 +12,10 @@ document.write("Hello World")
 
 var status = 
 { 
-  learning : [React,React Native],
-  intrests = ['Competitve Programming', 'Data Science', 'Reading', 'Chess',  'Netflix and Chill']
+  learning : ['React', 'Algo & DS', 'Data Science'],
+  intrests : ['Competitve Programming', 'Data Science', 'Reading', 'Chess',  'Netflix and Chill'],
+  currentlyWorking = "ReactTraining Series",
 }
-
-const currentlyWorking = "ReactTraining Series"
 
 const competitive_programming = repo.startswith("CP-")
 const data_science = repo.startswith("DS-")
