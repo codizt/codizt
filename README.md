@@ -7,8 +7,8 @@
 
 ## ✅ About Me
 ```js
-const name = 'Dev';
-document.write("Hello World");
+const name = 'Dev'
+document.write("Hello World")
 
 var status = 
 { 
@@ -21,18 +21,18 @@ const currentlyWorking = "ReactTraining Series"
 const competitive_programming = repo.startswith("CP-")
 const data_science = repo.startswith("DS-")
 
-const ide = ['VScode', 'DEV C++'];
+const ide = ['VScode', 'DEV C++']
 
-Developer dev = new Developer(codizt);
+Developer dev = new Developer(codizt)
 
-const myOS = 'Windows 10';
+const myOS = 'Windows 10'
 
 while(dev.isCoding() && dev.isStuck())  
 {
-  dev.openBrowser();
-  dev.openStackOverFlow();
-  dev.pasteCodeInIde();
-  dev.feelProfessional();
+  dev.openBrowser()
+  dev.openStackOverFlow()
+  dev.pasteCodeInIde()
+  dev.feelProfessional()
 }
 ```
 
