@@ -20,7 +20,7 @@ var status =
 const competitive_programming = repo.startswith("CP-")
 const data_science = repo.startswith("DS-")
 
-const ide = ['VScode', 'Dev C++', 'R Studio']
+const ide = ['VScode', 'Dev C++']
 
 Developer dev = new Developer(codizt)
 
