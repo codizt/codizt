@@ -14,7 +14,7 @@ var status =
 { 
   learning : ['React', 'Algo & DS', 'Data Science'],
   intrests : ['Competitve Programming', 'Data Science', 'Reading', 'Chess',  'Netflix and Chill'],
-  currentlyWorking = "ReactTraining Series",
+  currentlyWorking = "QuizHub",
 }
 
 const competitive_programming = repo.startswith("CP-")
@@ -22,7 +22,7 @@ const data_science = repo.startswith("DS-")
 
 const ide = ['VScode', 'Dev C++']
 
-Developer dev = new Developer(codizt)
+dev = new Developer(codizt)
 
 const myOS = 'Windows 10'
 
