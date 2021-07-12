@@ -8,7 +8,6 @@
 ## ✅ About Me
 ```js
 const name = 'Dev'
-document.write("Hello World")
 
 var status = 
 { 
