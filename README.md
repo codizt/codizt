@@ -13,7 +13,7 @@ var status =
 { 
   learning : ['React', 'Algo & DS', 'Data Science'],
   intrests : ['Competitve Programming', 'Data Science', 'Reading', 'Chess',  'Netflix and Chill'],
-  currentlyWorking = "QuizHub",
+  currentlyWorking = ["QuizHub","openAns"]
 }
 
 const competitive_programming = repo.startswith("CP-")
