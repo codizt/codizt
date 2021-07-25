@@ -27,10 +27,10 @@ const myOS = 'Windows 10'
 
 while(dev.isCoding() && dev.isStuck())  
 {
-  dev.openBrowser()
-  dev.openStackOverFlow()
-  dev.pasteCodeInIde()
-  dev.feelProfessional()
+  dev.openBrowser(),
+  dev.openStackOverFlow(),
+  dev.pasteCodeInIde(),
+  dev.feelProfessional(),
 }
 ```
 
